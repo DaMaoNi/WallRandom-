@@ -17,5 +17,4 @@ python change_wallpaper.py
 ## 文件说明
 
 - `change_wallpaper.py` - Python主程序
-- `change_wallpaper.vbs` - VBS启动脚本
 - `wallpaper.jpg` - 下载的壁纸缓存
